@@ -1,6 +1,6 @@
 # Air Canvas - My First Computer Vision Project
 
-I’ve always been interested in how computers process images and video, and I find a lot of practical use from it, whethet its Face ID on my iPhone, photo album filtering and searching, or even using AI to take in an image and generate results.
+I’ve always been interested in how computers process images and video, and I find a lot of practical use from it, whether its Face ID on my iPhone, photo album filtering and searching, or even using AI to take in an image and generate results.
 
 After learning the basics of computer vision in Python and going through a few tutorials, I decided to dive in and build my first computer vision project. I wanted something that would teach me a lot, but also be fun and interactive enough to keep me motivated.
 
